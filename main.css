@@ -167,6 +167,41 @@
 }
            
            
+     .film_bord{
+    background-color: black;
+    height: auto;
+    border-radius: 20px;
+    padding-top: 1%;
+   padding-bottom: 1%;
+}
+
+
+.film_text1{
+   color: rgb(255, 255, 255);
+   font-size: 24px;
+   padding-top: 1%;
+   padding-bottom: 1%;
+   margin-left: 5%;
+   height: auto;
+}
+
+
+
+.block1{
+    height: 150px;
+    width: 110px;
+    background-color: blue;
+}
+
+      
+           
+           
+           
+           
+           
+           
+           
+           
         #logo{
             background-color: rgba(0, 0, 0, 0.507);
             height: 70px;
